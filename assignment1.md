@@ -21,6 +21,7 @@ Enrollment No.: | Name | Repo link
 150303105033 | Dadhania Jay | [Repo](https://github.com/ParulProgrammingHub/assignment-1-jd3112)
 150303105034 | Helly Darji |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Helly02.git)
 150303105043  | Dobariya Urvish Vipulbhai | [REPO](https://github.com/ParulProgrammingHub/assignment-1-UrvishDobariya)
+150303105045 | Yash D Gamit |[Repo](https://github.com/ParulProgrammingHub/assignment-1-Yash2790)
 150303105054 | Kevin Gokani | [Repo](https://github.com/ParulProgrammingHub/assignment-1-kevin054)
 150303105055 | Anindita Guha | [Repo](https://github.com/ParulProgrammingHub/assignment-1-riyashekann)
 150303105059 | Jaimin Jadav | [repo](https://github.com/ParulProgrammingHub/assignment-1-jaiveerj)
